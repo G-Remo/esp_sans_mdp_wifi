@@ -6,3 +6,4 @@ Il y a l'OTA.
 Donc dans le choix de partition prendre avec fs et OTA (ou supprimer l'OTA).
 les champs à remplir: SSID, Mode passe, le reste est facultatif.
 
+Inspiré de https://randomnerdtutorials.com/esp32-wi-fi-manager-asyncwebserver/
